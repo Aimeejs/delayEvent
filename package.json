@@ -1,0 +1,23 @@
+{
+  "name": "delayevent",
+  "version": "1.0.0",
+  "description": "delay event",
+  "main": "delayevent.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aimeejs/delayEvent.git"
+  },
+  "keywords": [
+    "delay",
+    "event"
+  ],
+  "author": "gavinning",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aimeejs/delayEvent/issues"
+  },
+  "homepage": "https://github.com/Aimeejs/delayEvent#readme"
+}
